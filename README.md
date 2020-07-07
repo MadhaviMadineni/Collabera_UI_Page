@@ -1,1 +1,2 @@
-# Collabera_UI_Page
+
+This code written in html, css, javascript 
